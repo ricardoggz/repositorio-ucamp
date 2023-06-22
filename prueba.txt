@@ -1,0 +1,7 @@
+Repositorio de prueba
+
+Comandos de git para mandar a un repositorio remoto
+
+1._ git init
+
+2._ git add "nombre del archivo"
